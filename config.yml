@@ -60,9 +60,9 @@ params:
     tocopen: false
 
     homeInfoParams:
-        Title: "기록"
+        Title: "기록 \U0000270D"
         Content: >
-            이것저것 남겨보고자 합니다.
+            이것저것 남겨보고자 합니다.😁
     socialIcons:
         - name: github
           url: "https://github.com/b0ngjun"
