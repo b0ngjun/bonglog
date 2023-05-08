@@ -18,15 +18,18 @@ minify:
 
 menu:
     main:
-        - name: Archive
-          url: archives
+        - name: Categories
+          url: categories/
           weight: 10
+        - name: Archive
+          url: archives/
+          weight: 20
         - name: Search
           url: search/
-          weight: 20
+          weight: 30
         - name: Tags
           url: tags/
-          weight: 30
+          weight: 40
 
 outputs:
     home:
